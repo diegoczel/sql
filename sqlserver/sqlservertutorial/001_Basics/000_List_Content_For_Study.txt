@@ -1,0 +1,8 @@
+any | all
+exists | not exists
+unpivot
+transaction
+schema
+    https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-schema/
+    https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-schema/
+    https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-schema/
